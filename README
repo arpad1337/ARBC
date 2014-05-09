@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1>ARBC</h1>
 <h2>Modules</h2>
 <h3>API</h3>
@@ -27,3 +29,5 @@
 <p>To do: create build script.</p>
 <h2>License</h2>
 <p>MIT</p>
+</body>
+</html>
