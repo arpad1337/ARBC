@@ -1,0 +1,6 @@
+[submodule "api"]
+path = api
+url = https://github.com/arpad1337/ARBC-API.git
+[submodule "image-processing"]
+path = image-processing/arbc
+url = https://github.com/arpad1337/ARBC-image-processing.git
